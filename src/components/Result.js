@@ -16,7 +16,7 @@ function Result(props) {
             <div>
                 You prefer <strong>{props.quizResult}</strong>!
                 <br></br>
-                <a href="https://vast-island-12078.herokuapp.com/">
+                <a href="https://brandpower.github.io/doggosOutta5/">
                     Back to the dogs
                 </a>
             </div>
