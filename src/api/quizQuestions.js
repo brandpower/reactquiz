@@ -11,7 +11,7 @@ var quizQuestions = [
                 content: "No I meant 1 out of 5 beacuse I hate the world"
             },
             {
-                type: "Middle",
+                type: "Neutrality",
                 content: "Yes. Why do you care so much about my dog rating weirdo"
             }
         ]
@@ -24,7 +24,7 @@ var quizQuestions = [
                 content: "False and I'm unhappy with my life"
             },
             {
-                type: "Middle",
+                type: "Neutrality",
                 content: "Dogs are fine, like my personality"
             },
             {
@@ -37,7 +37,7 @@ var quizQuestions = [
         question: "Dogs are kind, loyal and compassionate creatures. Are you?",
         answers: [
             {
-                type: "Middle",
+                type: "Neutrality",
                 content: "This is the strangest dog related quiz I've every taken."
             },
             {

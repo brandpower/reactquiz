@@ -15,8 +15,12 @@ function Result(props) {
         >
             <div>
                 You prefer <strong>{props.quizResult}</strong>!
+                <br></br>
+                <a href="https://vast-island-12078.herokuapp.com/">
+                    Back to the dogs
+                </a>
             </div>
-        </CSSTransitionGroup>
+        </CSSTransitionGroup >
     );
 }
 
